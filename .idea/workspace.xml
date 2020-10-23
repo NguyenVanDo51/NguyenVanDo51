@@ -20,30 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48bd8c91-8fa0-4143-a514-11d5ea3e8956" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NguyenVanDo51.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NguyenVanDo51.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bootstrap.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/c-original.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cpp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/css.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/django.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/flask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/flutter-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/flutter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/git.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/html.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/java.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/js.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/matrix.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/php.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pycharm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/python.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/python2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sql.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +44,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MarikIshtar007" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603424020049</updated>
-      <workItem from="1603424022833" duration="2987000" />
+      <workItem from="1603424022833" duration="3430000" />
     </task>
     <servers />
   </component>
