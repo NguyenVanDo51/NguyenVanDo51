@@ -1,11 +1,10 @@
 <img width="250px" src = 'https://media3.giphy.com/media/MFabj1E9mgUsqwVWHu/200w.webp?cid=ecf05e476r9zkttgzph691fyk57qg1id5xb976wi0w534sil&rid=200w.webp' alt = 'Awesome Matrix Code' align="right"/>
 <p>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, welcome to my humble abode in the Digital World. There are 10 types of people in the world. Those who get Binary and those who don't.</p>
 
-## Programming Languages/Technologies
-* PHP, Laravel framework
-* VueJS, ReactJS, Jquery, Materializecss, Bootstrap
+## Technologies
+* Node.js, PHP, Laravel
+* VueJS, ReactJS, React Navite
 * Mysql, MongoDB
-* Docker, Nginx
 
 <br>
 
