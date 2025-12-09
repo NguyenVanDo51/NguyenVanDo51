@@ -3,15 +3,12 @@
 
 ## Frontend
 * ReactJS, React native, NextJS
-* Antd, MUI, tailwin
+* Antd, MUI, tailwindCSS
 
 ## Backend
-* Node.js, PHP, Laravel
-* Mysql, MongoDB
-* Restfull API
+* Node.js, Python
+* PostgreSQL, MongoDB
 
 <br>
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=NguyenVanDo51&show_icons=true&hide=[%22issues%22])
- 
 <img src="https://media0.giphy.com/media/c8NspwwVxwAiA/giphy.gif?cid=ecf05e4746md67sdmkidfhvneq77y2o17k024y4o9pzp480g&rid=giphy.gif" alt="hi" />
